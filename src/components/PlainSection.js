@@ -5,7 +5,7 @@ const PlainSection = () => {
   return (
     <section className=" bg-litegreen drop-shadow-2xl py-10  mt-10 xl:mx-16 lg:mx-16 md:mx-16 mx-4 2xl:mx-24 rounded-3xl">
       <div className="container mx-auto px-4 md:flex items-center">
-        <div className="md:w-1/2 px-12">
+        <div className="md:w-1/2 px-3">
           <h2 className="text-4xl font-bold">Welcome to <span className='text-sitegreen'>Yoga Retreat</span>. <br />Your Spiritual Guide</h2>
           <p className="text-lg mt-4">
             Yoga Retreat is a gathering of people who are joining together to practice yoga in a group setting. These retreats can be daylong retreats, or multiple day trips where multiple activities are compiled together. A yoga retreat is an amazing opportunity to meet with others who are passionate about yoga. <br /> <br />
