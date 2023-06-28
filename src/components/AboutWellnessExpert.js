@@ -1,5 +1,5 @@
 import React from 'react';
-import wellnessBg from '../assets/wellnessbg.png';
+import wellnessBg from '../assets/wellnessbg.jpg';
 
 const AboutWellnessExpert = () => {
   return (

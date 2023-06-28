@@ -30,7 +30,7 @@ const Package = () => {
       </div>
 
       <div className='mt-14 mx-auto px-4 bg-litegreen rounded-2xl drop-shadow-xl py-8
-      md:flex md:w-[90%]
+      md:flex md:flex-row-reverse md:w-[90%]
       xl:w-5/6'>
         <div className='mx-2
         md:w-[40%]'>
@@ -84,7 +84,7 @@ const Package = () => {
 
 
       <div className='mt-14 mx-auto px-4 bg-litegreen rounded-2xl drop-shadow-xl py-8
-      md:flex md:w-[90%]
+      md:flex md:flex-row-reverse md:w-[90%]
       xl:w-5/6'>
         <div className='mx-2
         md:w-[40%]'>

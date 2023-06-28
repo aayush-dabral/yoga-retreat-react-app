@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import heroImage from '../assets/hero-image.png';
+import heroImage from '../assets/hero-image.jpg';
 
 const HeroSection = () => {
   const [isLoaded, setIsLoaded] = useState(false);

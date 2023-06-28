@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 
-import TamiaImg from '../../assets/rishikesh.png'
+import TamiaImg from '../../assets/rishikesh.jpg'
 import location from '../../assets/loaction.svg'
 import call from '../../assets/call.svg'
 import mail from '../../assets/mail.svg'

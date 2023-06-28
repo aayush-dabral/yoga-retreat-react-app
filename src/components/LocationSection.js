@@ -1,6 +1,6 @@
 import React from 'react';
 import tamiaImage from '../assets/Tamia2.jpg';
-import rishikeshImage from '../assets/rishikesh.png';
+import rishikeshImage from '../assets/rishikesh.jpg';
 import { Link } from 'react-router-dom'
 
 const LocationSection = () => {
