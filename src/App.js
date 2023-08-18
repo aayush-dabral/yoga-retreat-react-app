@@ -11,7 +11,7 @@ import {
 import Tamia from './components/Tamia/Tamia';
 import Rishikesh from './components/Rishikesh/Rishikesh';
 import WellnessExpertSection from './components/WellnessExpertSection ';
-import CardSection from './components/CardSection';
+import Facilities from './components/Facilities';
 import TeamMembersSection from './components/TeamMembersSection';
 import AboutWellnessExpert from './components/AboutWellnessExpert';
 import Footer from './components/Footer';
@@ -30,7 +30,7 @@ const App = () => {
             <PlainSection />
             <LocationSection />
             <WellnessExpertSection />
-            <CardSection />
+            <Facilities />
             <TeamMembersSection />
             <AboutWellnessExpert />
             <Footer />

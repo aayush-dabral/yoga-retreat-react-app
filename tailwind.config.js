@@ -27,6 +27,9 @@ module.exports = {
       fontFamily: {
         sans: ['Inter var', ...defaultTheme.fontFamily.sans],
       },
+      boxShadow: {
+        'custom': "5.23622px 5.33858px 12.6063px 0.779528px rgba(0, 0, 0, 0.25)"
+      }
     }
   },
   plugins: [
